@@ -1,2 +1,2 @@
-#!/bin/bapw
+#!/bin/bash
 current_directory=$(pwd)
